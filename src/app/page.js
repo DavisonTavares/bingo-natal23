@@ -71,8 +71,7 @@ export default function Home() {
             //imprime o cupom
             setTimeout(() => {
                 window.print()
-                setCupom(null)
-            }, 500)
+            }, 1000)
                 
 
         }
